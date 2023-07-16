@@ -1,4 +1,4 @@
-Huge thanks to this tutorial on creating the dice effects.
+Huge thanks dcode for this this tutorial on creating the dice.
 
 https://dcode.domenade.com/tutorials/how-to-create-a-dice-roll-game-with-html-css-and-javascript
 
