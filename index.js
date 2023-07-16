@@ -140,3 +140,6 @@ const resultLookup = {
 	return output;
   }
 
+
+
+  document.getElementById('currentYear').textContent = new Date().getFullYear();

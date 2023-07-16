@@ -196,6 +196,42 @@ h2 {
     background-color: #f44336;
 }
 
+
+
+
+/* Existing CSS here */
+
+footer {
+    width: 100%;
+    background-color: #f8f8f8;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    display: flex;
+    width: 80%;
+    max-width: 600px;
+    justify-content: space-between;
+    align-items: center;  /* Vertically aligns all items in footer */
+}
+
+.footer-section {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
 .dice {
     width: 100px;
     height: 100px;
